@@ -1,6 +1,6 @@
 # agora_with_reactjs
 
-This project is using React.js and agora-rtc-sdk-ng to implement the video call.
+This project uses React.js and agora-rtc-sdk-ng to implement the video call.
 
 ## Development
 
