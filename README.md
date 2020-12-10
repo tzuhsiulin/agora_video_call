@@ -1,6 +1,6 @@
-# Video Calling in React.js and agora-rtc-sdk-ng
+# agora_with_reactjs
 
-TBD
+This project is using React.js and agora-rtc-sdk-ng to implement the video call.
 
 ## Development
 
